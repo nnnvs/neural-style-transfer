@@ -1,12 +1,12 @@
 # neural-style-transfer
 
-![Example Image](img/example.png)
+Please find project_report.pdf which investigates various techniques for style transfer using deep learning from the method described by Gatys to CycleGANs.
 
-Follow along in a GPU-enabled workbook! [Link](https://colab.research.google.com/github/Nick-Morgan/neural-style-transfer/blob/master/Neural_Style_Transfer.ipynb). 
+![Example Image](img/example.png)
 
 Neural Style Transfer utilizes the [VGG-19 Image Classification Neural Network](https://arxiv.org/pdf/1409.1556.pdf) to apply transfer learning to images. 
 
-![VGG19 - Clifford K. Yang](https://github.com/Nick-Morgan/neural-style-transfer/blob/master/img/vgg19.jpg?raw=1)
+![VGG19 - Clifford K. Yang](https://github.com/27pirateking/neural-style-transfer/blob/master/img/vgg19.jpg?raw=1)
 
 This repository explores two methods - one introduced by Leon A. Gatys, and another introduced by Justin Johnson.
 
